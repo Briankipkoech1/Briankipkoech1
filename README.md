@@ -16,7 +16,7 @@ I'm Brian Kipkoech, a self-taught software engineer 🚀 . With a passion for te
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Looking to collaborate on MERN stack projects
   
 
 <br/>  

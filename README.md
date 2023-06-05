@@ -4,7 +4,7 @@
   
 
 ### <div align="center">
-I'm Brian Kipkoech, a self-taught software engineer 🚀 . With a passion for technology and a hunger for learning, I've been honing my skills as a full-stack software developer and working  to create innovative solutions and bring ideas to life.🚀</div>  
+<h1>I'm Brian Kipkoech, a self-taught software engineer 🚀 . With a passion for technology and a hunger for learning, I've been honing my skills as a full-stack software developer and working  to create innovative solutions and bring ideas to life.</h1>🚀</div>  
   
 
 - 🌱 Currently a student, in my final year Bsc EEE  
